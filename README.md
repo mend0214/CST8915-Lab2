@@ -10,6 +10,7 @@ I added a .env file and used environment variables such as:
 * RABBITMQ_CONNECTION_STRING=amqp://newuser:newpassword@20.116.219.116:5672/
 * PORT=3000
 * PORT=3030
+
 To configure the ports used by order service and product service, and to access RabbitMQ server.
 
 2. **Why is it important to use environment variables instead of hard-coding configurations in your application?**
