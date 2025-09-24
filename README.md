@@ -15,7 +15,7 @@ To configure the ports used by order service and product service, and to access 
 
 2. **Why is it important to use environment variables instead of hard-coding configurations in your application?**
 
-It is important to use environment variables instead of hard-coding configuration because it allows diiferent deployments of the codebase in different environments without changing the codebase.
+It is important to use environment variables instead of hard-coding configuration because it allows multiple deployments of the codebase in different environments without altering the codebase.
 
 3. **Why is it important to have separate repositories for each microservice? How does this help maintain independence and scalability of each service?**
 
