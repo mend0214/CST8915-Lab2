@@ -25,6 +25,6 @@ It is important to have separate repositories for each microservice because it h
 
 ## Services GitHub Repo
 
-1. order service : https://github.com/mend0214/order-service-lab2/tree/main/order-service
+1. order service : https://github.com/mend0214/order-service-lab2/
 2. product service : https://github.com/mend0214/product-service-lab2/tree/main/product-service
 3. store front : https://github.com/mend0214/store-front-lab2/tree/main/store-front
